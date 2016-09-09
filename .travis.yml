@@ -1,5 +1,5 @@
 language: ruby
 rvm:
-- 2.2.1p85
+- 2.2.1p85 --disable-binary
 before_install:
 - gem install mime-types-data -v '3.2016.0521'
