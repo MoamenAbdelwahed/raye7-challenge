@@ -186,6 +186,7 @@ DEPENDENCIES
   jquery-rails
   pg
   rails (= 4.2.7)
+  rake
   responders
   rspec-rails
   sass-rails (~> 5.0)
