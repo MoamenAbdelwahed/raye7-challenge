@@ -1,1 +1,3 @@
 language: ruby
+before_deploy:
+- gem install mime-types-data -v '3.2016.0521'
